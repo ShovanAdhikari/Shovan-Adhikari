@@ -1,20 +1,17 @@
-<p align="center">Hello World!! I'm Shovan Adhikari, a passionare paraplanner from Nepal</p>
+<h1 align="center">Hi 👋, I'm Shovan Adhikari</h1>
+<h3 align="center">A passionate Paraplanner from Nepal</h3>
 
-###
+- 🔭 I’m currently working on [Avaya Machine Private Limited](https://www.avayamachine.com/team)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/shovan-adhikari/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="shovan.adhik@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+- 👯 I’m looking to collaborate on **Paraplanning work**
 
-###
+- 📫 How to reach me **shovan.adhik@gmail.com**
 
-<div align="center">
-  <img height="200" src="https://imgflip.com/i/8so6k4"  />
-</div>
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hkKCUxyiHu-Da1LCQJKMcv_yd3fY-GM_/view?usp=sharing](https://drive.google.com/file/d/1hkKCUxyiHu-Da1LCQJKMcv_yd3fY-GM_/view?usp=sharing)
 
-###
+- ⚡ Fun fact **I think I'm a quick learner**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shovan-adhikari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shovan-adhikari/" height="30" width="40" /></a>
+</p>
