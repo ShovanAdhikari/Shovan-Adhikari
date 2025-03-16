@@ -1,10 +1,10 @@
-[![MASTERHEAD](https://discovertemplate.com/wp-content/uploads/wc-document-uploads/1/DT_G09_Finance-Animated-GIF-Icon-Pack.gif)](https://shovanadhikari.io)
+[![MASTERHEAD](https://accent-technologies.com/wp-content/uploads/2021/01/BlogPage_DataPersonalization_Banner-1280x561.png)](https://shovanadhikari.io)
 <h1 align="center">Hi 👋, I'm Shovan Adhikari</h1>
 <h3 align="center">A passionate Paraplanner from Nepal</h3>
 
 - 🔭 I’m currently working on [Avaya Machine Private Limited](https://www.avayamachine.com/team)
 
-- 👯 I’m looking to collaborate on **Paraplanning work like writing SOAs, ROAs**
+- 👯 I’m looking to collaborate on **Paraplanning work**
 
 - 📫 How to reach me **shovan.adhik@gmail.com**
 
