@@ -1,6 +1,6 @@
 <p align="centre">
   <a href="https://shovanadhikari.io">
-    <img src="https://accent-technologies.com/wp-content/uploads/2021/01/BlogPage_DataPersonalization_Banner-1280x561.png" alt="Masterhead" width="1100" height="250">
+    <img src="https://i.pinimg.com/originals/1d/84/f2/1d84f2a617013fcecfddd1f8ff397fe3.jpg" alt="Masterhead" width="1100" height="250">
   </a>
 </p>
 👋 Hi, I'm Shovan Adhikari
