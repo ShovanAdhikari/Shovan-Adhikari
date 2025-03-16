@@ -1,11 +1,10 @@
-
+[![MASTERHEAD](https://discovertemplate.com/wp-content/uploads/wc-document-uploads/1/DT_G09_Finance-Animated-GIF-Icon-Pack.gif)](https://shovanadhikari.io)
 <h1 align="center">Hi 👋, I'm Shovan Adhikari</h1>
 <h3 align="center">A passionate Paraplanner from Nepal</h3>
-<img align="right" alt="paraplanning" width="400" scr="https://th.bing.com/th/id/R.ccad9c03ee695015ac8e0a966773e1fc?rik=2NcSOeFW5eubAA&riu=http%3a%2f%2fimgvisuals.com%2fcdn%2fshop%2fproducts%2fanimated-isolated-coding-specialist-722044.gif%3fv%3d1698899302&ehk=SJ%2bkVMnFo%2fLUaL%2b%2fd8nX0Lxmgs09Xhvfu66YM0aOVjg%3d&risl=&pid=ImgRaw&r=0">
 
 - 🔭 I’m currently working on [Avaya Machine Private Limited](https://www.avayamachine.com/team)
 
-- 👯 I’m looking to collaborate on **Paraplanning work**
+- 👯 I’m looking to collaborate on **Paraplanning work like writing SOAs, ROAs**
 
 - 📫 How to reach me **shovan.adhik@gmail.com**
 
