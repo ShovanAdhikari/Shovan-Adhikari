@@ -23,7 +23,7 @@ I'm passionate about finance, financial planning, and data management. With a **
 ✅ **Financial Analysis & Paraplanning**  
 ✅ **Data Entry & Management**  
 ✅ **SOA & Insurance Quotations**  
-✅ **MS Office, HUB24, Omnium, Losec**  
+✅ **MS Office, HUB24, DASH, Omnium, Losec**  
 ✅ **Attention to Detail & Research**  
 
 ### 📫 Get in Touch  
