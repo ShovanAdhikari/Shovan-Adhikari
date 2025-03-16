@@ -1,16 +1,29 @@
 [![MASTERHEAD](https://accent-technologies.com/wp-content/uploads/2021/01/BlogPage_DataPersonalization_Banner-1280x561.png)](https://shovanadhikari.io)
-<h1 align="center">Hi 👋, I'm Shovan Adhikari</h1>
-<h3 align="center">A passionate Paraplanner from Nepal</h3>
+# 👋 Hi, I'm Shovan Adhikari
 
-- 🔭 I’m currently working on [Avaya Machine Private Limited](https://www.avayamachine.com/team)
+🚀 **Aspiring Financial & Data Professional** | Paraplanner | Finance & Data Entry Specialist  
 
-- 👯 I’m looking to collaborate on **Paraplanning work**
+I'm passionate about finance, financial planning, and data management. With a **Bachelor's in Business Administration (Finance) from Westcliff University**, I have hands-on experience in **financial analysis, paraplanning, and data entry**.  
 
-- 📫 How to reach me **shovan.adhik@gmail.com**
+### 💼 Work Experience
+- **Paraplanner at Avaya Machine Pvt. Ltd.** (HUB24 and DASH SMSF)  
+  - Preparing **Statements of Advice (SOAs)**  
+  - Developing **financial projections & insurance plans**  
+  - Conducting **research & financial analysis**  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hkKCUxyiHu-Da1LCQJKMcv_yd3fY-GM_/view?usp=sharing](https://drive.google.com/file/d/1hkKCUxyiHu-Da1LCQJKMcv_yd3fY-GM_/view?usp=sharing)
+- **HRIS Intern at Rastriya Banijya Bank Limited (RBBL)**  
+  - Managed **HR data & records**  
+  - Assisted in **creating employee booklets**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shovan-adhikari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shovan-adhikari/" height="30" width="40" /></a>
-</p>
+### 🛠️ Skills  
+✅ **Financial Analysis & Paraplanning**  
+✅ **Data Entry & Management**  
+✅ **SOA & Insurance Quotations**  
+✅ **MS Office, HUB24, Omnium, Losec**  
+✅ **Attention to Detail & Research**  
+
+### 📫 Get in Touch  
+💼 [LinkedIn](https://www.linkedin.com/in/shovan-adhikari/)  
+📧 shovan.adhik@gmail.com  
+
+Let's connect and collaborate! 🚀
